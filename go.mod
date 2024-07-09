@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/discord-gophers/goapi-gen v0.3.0
-	github.com/getkin/kin-openapi v0.126.0
+	github.com/getkin/kin-openapi v0.125.0
 	github.com/go-chi/chi/v5 v5.1.0
 	github.com/go-chi/render v1.0.3
 )
